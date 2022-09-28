@@ -1,0 +1,43 @@
+p{
+
+  width: 40px;
+}
+
+.cuadro1{
+  position: relative;
+  width: 600px;
+  height: 600px;
+  left: 300px;
+  background-color: gray;
+}
+
+.cuadro2{
+
+  position: relative;
+  width: 150px;
+  height: 150px;
+  background-color: red;
+  left:750px;
+  top: -570px;
+}
+
+.cuadro3{
+
+  position: relative;
+  width: 150px;
+  height: 150px;
+  background-color: yellow;
+  left: 300px;
+  top: -420px;
+}
+
+.cuadro4{
+
+  position: relative;
+  width: 150px;
+  height: 150px;
+  background-color: green;
+  left: 370px;
+  top: -420px;
+}
+

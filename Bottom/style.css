@@ -1,0 +1,18 @@
+.button {
+  border-radius: 20px;
+  border: none;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+  cursor: pointer;
+  display: inline-block;
+  outline: 0;
+  padding: 10px 40px;
+  text-align: center;
+  transition: all 0.3s ease;
+  color: aliceblue;
+  font-family: "Inter", sans-serif;
+  background-color: rgb(250, 58, 164);
+}
+
+.button:hover {
+  background-color: rgb(60, 198, 205);
+}

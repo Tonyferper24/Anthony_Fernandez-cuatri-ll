@@ -1,0 +1,31 @@
+.cubo3{
+
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background-color:green;
+  left: 290px;
+  bottom: 380px;
+  z-index: 3;
+}
+
+.cubo2{
+
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  bottom: 420px;
+  background-color: aquamarine;
+  left: 260px;
+  z-index: 2;
+}
+
+.cubo1{
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background-color: orangered;
+  bottom: 460px;
+  left: 240px;
+  z-index: 1;
+}
